@@ -1,5 +1,5 @@
 # Chat App (React Native + Node.js + Socket.IO)
-Deadline: 13-Nov-2025
+
 
 This repo contains two folders:
  - /server : Node.js + Express + Socket.IO backend (MongoDB)
